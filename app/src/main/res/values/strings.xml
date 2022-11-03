@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">h-3jam</string>
+    <string-array name="arr_jurusan">
+        <item>pilih</item>
+        <item>
+            TES TERTULIS
+        </item>
+
+        <item>JALUR TANPA TEST</item>
+        <item>UJIAN SARINGAN MASUK</item>
+        <item>BEASISWA 100%</item>
+    </string-array>
+</resources>
